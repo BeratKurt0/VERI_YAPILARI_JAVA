@@ -1,4 +1,4 @@
-# Veri_Yapıları_JAVA
+# VERI_YAPILARI_JAVA
 Paylaşmış Olduğum Proje İçerisinde JAVA'nın Bellek Yönetimi, OOP Konsepti ve Veri Yapılarının Mantığını Öğrenebilirsiniz..
 
 Üniversitelerde Öğrendiğimiz veya Öğrenmeye çalıştığımız -yüksek ihtimalle- Ezbere öğrenim yaklaşımını reddederek daha kapsamlı, açıklayıcı, 
